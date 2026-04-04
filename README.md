@@ -9,4 +9,3 @@ Solutions for [Advent of Code 2025](https://adventofcode.com/2025) written in Py
 
 ## Conventions
 - Each puzzle day lives in its own notebook; no shared module is required.
-- Use only the standard library plus `python-dotenv` and `advent-of-code-data`.
